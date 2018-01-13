@@ -1,0 +1,14 @@
+{
+  "name": "try-chalk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "https://github.com/aofleejay/try-chalk.git",
+  "author": "aofleejay <aofleejay@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  }
+}

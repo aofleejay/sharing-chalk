@@ -1,0 +1,5 @@
+const chalk = require('chalk')
+console.log(`${chalk.bgYellow.black('[Warning]')} Funtion xxx is deprecated.`)
+console.log(`${chalk.bgRed.black('[Error]')} Can\'t use xxx in yyy.`)
+console.log(`${chalk.bgGreen.black('[Success]')}  Data saved.`)
+console.log(`${chalk.hex('#DEADED').underline('[I Love You]')}  Jub Jub.`)
