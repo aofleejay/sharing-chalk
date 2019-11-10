@@ -6,7 +6,7 @@
     "start": "node index.js"
   },
   "repository": "https://github.com/aofleejay/try-chalk.git",
-  "author": "aofleejay <aofleejay@hotmail.com>",
+  "author": "aofleejay",
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.3.0"
